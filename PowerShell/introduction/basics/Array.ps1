@@ -22,9 +22,9 @@ $Course1
 
 ############################################# Hash Tables ######################################################
 $Courses_HashTable = @{
-    'Java'="Java Beginner to Advance"
-    'C#' = 'C# Mastery'
-    'Python'="Python Guru"
+    Java="Java Beginner to Advance"
+    CSharp = 'C# Mastery'
+    Python="Python Guru"
 }
 
 $Courses_HashTable['Java']
